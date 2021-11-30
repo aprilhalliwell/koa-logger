@@ -1,0 +1,10 @@
+{
+  "name": "koa-logger",
+  "version": "1.0.2",
+  "description": "Simple logging for Koa backed REST APIs",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "moment-timezone": "^0.5.23"
+  }
+}
