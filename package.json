@@ -1,6 +1,6 @@
 {
-  "name": "koa-logger",
-  "version": "1.0.2",
+  "name": "simplekoa-logger",
+  "version": "1.0.0",
   "description": "Simple logging for Koa backed REST APIs",
   "license": "UNLICENSED",
   "dependencies": {
